@@ -1,0 +1,6 @@
+(v 0.4.2)
+-Added Wehrtmacht commanders, faction support
+
+(v0.4.3)
+-Corrected Persean League faction file locations to prevent crashing
+-Added change log

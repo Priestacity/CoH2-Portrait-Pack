@@ -1,0 +1,14 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/coh2_wehr_4.png",
+			"graphics/portraits/coh2_wehr_13.png",
+			"graphics/portraits/coh2_wehr_14.png",
+			"graphics/portraits/coh2_wehr_11.png",
+			"graphics/portraits/coh2_wehr_av_8.png",
+		],
+		"standard_female":[
+			"graphics/portraits/coh2_sov_16.png",
+		],
+	},
+},				

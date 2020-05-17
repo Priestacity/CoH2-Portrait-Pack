@@ -1,0 +1,28 @@
+{
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/coh2_sov_1.png",
+			"graphics/portraits/coh2_sov_2.png",
+			"graphics/portraits/coh2_sov_3.png",
+			"graphics/portraits/coh2_sov_4.png",
+			"graphics/portraits/coh2_sov_5.png",
+			"graphics/portraits/coh2_sov_6.png",
+			"graphics/portraits/coh2_sov_7.png",
+			"graphics/portraits/coh2_sov_8.png",
+			"graphics/portraits/coh2_sov_9.png",
+			"graphics/portraits/coh2_sov_10.png",
+			"graphics/portraits/coh2_sov_11.png",
+			"graphics/portraits/coh2_sov_12.png",
+			"graphics/portraits/coh2_sov_13.png",
+			"graphics/portraits/coh2_sov_14.png",
+			"graphics/portraits/coh2_sov_15.png",
+			"graphics/portraits/coh2_sov_17.png",
+			"graphics/portraits/coh2_sov_18.png",
+			"graphics/portraits/coh2_sov_19.png",
+		],
+		"standard_female":[
+			"graphics/portraits/coh2_sov_16.png",
+		],
+		
+	},
+},
