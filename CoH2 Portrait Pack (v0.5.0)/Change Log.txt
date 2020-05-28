@@ -1,0 +1,10 @@
+(v0.5.0)
+-Added USA commanders, more faction/mod support, version checker support
+-Removed Kingdom Terra support
+
+(v0.4.3)
+-Corrected Persean League faction file locations to prevent crashing
+-Added change log
+
+(v 0.4.2)
+-Added Wehrtmacht commanders, faction support

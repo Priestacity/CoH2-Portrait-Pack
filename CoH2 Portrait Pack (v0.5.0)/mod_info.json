@@ -1,0 +1,8 @@
+{
+	"id":"coh2pp", # internal id
+	"name":"CoH2 Portrait Pack", # displayed to the player
+	"author":"Priestacity",
+	"version":"0.5.0",
+	"description":"Adds the commander and avatar pictures from Company of Heroes 2 as portraits",
+	"gameVersion":"0.9.1a",
+}
